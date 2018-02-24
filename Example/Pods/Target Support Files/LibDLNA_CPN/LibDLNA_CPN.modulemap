@@ -1,0 +1,6 @@
+framework module LibDLNA_CPN {
+  umbrella header "LibDLNA_CPN-umbrella.h"
+
+  export *
+  module * { export * }
+}

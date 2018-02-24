@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LibDLNA_CPN_Example' do
+  pod 'LibDLNA_CPN', :path => '../'
+
+  target 'LibDLNA_CPN_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "LibDLNA_CPN",
+  "version": "0.1.0",
+  "summary": "A short description of LibDLNA_CPN.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/walkerwg/LibDLNA_CPN",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "walkerwg": "907029564@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/walkerwg/LibDLNA_CPN.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LibDLNA_CPN/Classes/**/*"
+}
